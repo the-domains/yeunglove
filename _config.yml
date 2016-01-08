@@ -1,0 +1,28 @@
+name: YeungLove
+favicon: null
+layout_spectrum: 0.7165520207490772
+typography_spectrum: 0.2914891825057566
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5718512651510537
+  lightness: 0.28397855581715703
+  saturation: 0.07134335255250335
+  rhythmicContrast: 0.5806949133984745
+purpose: []
